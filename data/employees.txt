@@ -1,0 +1,20 @@
+1001,password,Likith chandra,Software developement,9000000001,likith@gmail.com,likith1234
+1002,password,Nikhil sourav,Server & Security,9000000002,nikhil@gmail.com,nikhil1234
+1003,password,Chirag kaushik,Frontend developement,9000000003,kaushik@gmail.com,kaushik1234
+1004,password,Bhogi Karthik,Software testing,9000000004,karthik@gmail.com,karthik1234
+1005,password,Rahul kumar,Software developement,9000000005,rahul@gmail.com,rahul1234
+1006,password,Rajesh,Server & Security,9000000006,rajesh@gmail.com,rajesh1234
+1007,password,kamal chandra,Frontend developement,9000000007,kamal@gmail.com,kamal1234
+1008,password,Arun kumar,Software testing,9000000008,arun@gmail.com,arun1234
+1009,password,Raman singh,Software developement,9000000009,raman@gmail.com,raman1234
+1010,password,Pavan kumar ,Server & Security,9000000010,pavan@gmail.com,pavan1234
+1011,password,Ashish agarwal,Frontend developement,9000000011,ashish@gmail.com,ashish1234
+1012,password,kunal kapoor,Software testing,9000000012,kunal@gmail.com,kunal1234
+1013,password,Ameer khan,Software developement,9000000013,ameer@gmail.com,ameer1234
+1014,password,Praveen kumar,Server & Security,9000000014,praveen@gmail.com,praveen1234
+1015,password,Meghana gupta,Frontend developement,9000000015,meghana@gmail.com,meghana1234
+1016,password,Gowtham kumar,Software testing,9000000016,gowtham@gmail.com,gowtham1234
+1017,password,Nithya menon,Software developement,9000000017,nithya@gmail.com,nithya1234
+1018,password,Vaibhav singhal,Server & Security,9000000018,vaibhav@gmail.com,vaibhav1234
+1019,password,Jashwanth reddy,Frontend developement,9000000019,jaswanth@gmail.com,jashwanth1234
+1020,password,Suraj gupta,Software testing,9000000020,suraj@gmail.com,suraj1234

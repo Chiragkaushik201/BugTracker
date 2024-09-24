@@ -1,0 +1,17 @@
+# ignore all extensions
+*.out
+*.exe
+*.obj
+*.swp
+*.o
+.~
+
+# ignore these folders
+.vscode/
+obj/*
+bin/*
+report/*
+
+# ignore everything in make except Makefile
+make/*
+!make/Makefile
